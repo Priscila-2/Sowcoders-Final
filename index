@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Principal - Patitas en Acción</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <h1>Patitas en Acción</h1>
+        <p>¡Ayuda a los animalitos a encontrar un hogar!</p>
+    </header>
+
+    <!-- Navegación -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Página Principal</a></li>
+            <li><a href="registro.html">Registro de Usuario</a></li>
+            <li><a href="galeria.html">Imágenes de Animales</a></li>
+        </ul>
+    </nav>
+
+    <!-- Contenido Principal -->
+    <div class="form-container">
+    <section class="container">
+        <h2>Bienvenidos a Patitas en Acción</h2>
+        <p>En esta plataforma, puedes ayudar a animales en adopción, reportar animales perdidos, y compartir con la comunidad.</p>
+
+        <!-- Imagen de bienvenida -->
+         <!-- Contenedor para centrar -->
+        <img src="https://st4.depositphotos.com/21979866/30071/i/450/depositphotos_300713158-stock-photo-banner-four-pets-labrador-retriever.jpg"class="section-image">
+    </section>
+
+        <!-- Sección: Sobre Nosotros -->
+        <section id="sobre-nosotros">
+            <h3>Sobre Nosotros</h3>
+            <p>En Patitas en Acción, estamos comprometidas con el bienestar de los animales de la calle. Nuestra misión es conectar a aquellos que buscan ayudar con aquellos que necesitan ayuda. Por ello, se creò esta comunidad solidaria, que lucha por la protección y adopción de animales abandonados o perdidos.</p>
+
+            <!-- Imagen relacionada con la sección Sobre Nosotros -->
+            <img src="https://static.vecteezy.com/system/resources/previews/002/681/774/non_2x/people-together-persons-standing-together-and-hands-up-male-and-female-cartoon-characters-vector.jpg"class="section-image">
+        </section>
+
+        <!-- Sección: Misión -->
+        <section id="mision">
+            <h3>Nuestra Misión</h3>
+            <ul>
+                <li>Ayudar a reducir el número de animales de la calle mediante la adopción responsable.</li>
+                <li>Proporcionar recursos y apoyo a aquellos que cuidan de animales abandonados.</li>
+                <li>Fomentar la conciencia y educación sobre el bienestar animal en nuestra comunidad.</li>
+                <li>Unir a personas y organizaciones para trabajar juntas hacia un futuro más compasivo.</li>
+            </ul>
+
+            <!-- Imagen relacionada con la misión -->
+            <img src="https://ciudadpe.com/wp-content/uploads/2023/01/40-1.jpg" alt="Cuidado responsable de animales" class="section-image">
+        </section>
+
+        <!-- Sección: Visión -->
+        <section id="vision">
+            <h3>Nuestra Visión</h3>
+            <p>Nuestra visión es un mundo donde todos los animales tengan un hogar seguro y amoroso. Donde la comunidad se une para proteger y cuidar de los más vulnerables. Donde la compasión y la empatía guían nuestras acciones.</p>
+
+            <!-- Imagen relacionada con la visión -->
+            <img src="https://static.fundacion-affinity.org/cdn/farfuture/x8OD23_L1k7d62AUvQ__A2dR6DgHPObuMlZeo7i6k4w/mtime:1528830328/sites/default/files/quiero-ser-una-casa-de-acogida.jpg?itok=n2kVSTSl"class="section-image">
+        </section>
+            <br>
+
+            <blockquote>"La compasión hacia los animales es la medida de nuestra humanidad." - Mahatma Gandhi.</blockquote>
+            <p>¡Únete a nosotros en esta misión y juntos podemos hacer una diferencia!</p>
+        </section>
+    </section>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2024 Patitas en Acción - Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
